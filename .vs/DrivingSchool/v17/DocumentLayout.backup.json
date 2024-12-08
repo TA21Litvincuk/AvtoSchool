@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Oleksandr\\source\\repos\\DrivingSchool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F417ED-C852-47A4-A886-A9B8750DA9C3}|DrivingSchool\\DrivingSchool.csproj|c:\\users\\oleksandr\\source\\repos\\drivingschool\\drivingschool\\models\\advancedinstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F417ED-C852-47A4-A886-A9B8750DA9C3}|DrivingSchool\\DrivingSchool.csproj|solutionrelative:drivingschool\\models\\advancedinstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F417ED-C852-47A4-A886-A9B8750DA9C3}|DrivingSchool\\DrivingSchool.csproj|c:\\users\\oleksandr\\source\\repos\\drivingschool\\drivingschool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F417ED-C852-47A4-A886-A9B8750DA9C3}|DrivingSchool\\DrivingSchool.csproj|solutionrelative:drivingschool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F417ED-C852-47A4-A886-A9B8750DA9C3}|DrivingSchool\\DrivingSchool.csproj|c:\\users\\oleksandr\\source\\repos\\drivingschool\\drivingschool\\services\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F417ED-C852-47A4-A886-A9B8750DA9C3}|DrivingSchool\\DrivingSchool.csproj|solutionrelative:drivingschool\\services\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F417ED-C852-47A4-A886-A9B8750DA9C3}|DrivingSchool\\DrivingSchool.csproj|c:\\users\\oleksandr\\source\\repos\\drivingschool\\drivingschool\\interfaces\\idriveable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F417ED-C852-47A4-A886-A9B8750DA9C3}|DrivingSchool\\DrivingSchool.csproj|solutionrelative:drivingschool\\interfaces\\idriveable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F417ED-C852-47A4-A886-A9B8750DA9C3}|DrivingSchool\\DrivingSchool.csproj|c:\\users\\oleksandr\\source\\repos\\drivingschool\\drivingschool\\interfaces\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F417ED-C852-47A4-A886-A9B8750DA9C3}|DrivingSchool\\DrivingSchool.csproj|solutionrelative:drivingschool\\interfaces\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F417ED-C852-47A4-A886-A9B8750DA9C3}|DrivingSchool\\DrivingSchool.csproj|c:\\users\\oleksandr\\source\\repos\\drivingschool\\drivingschool\\models\\lessonwithevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F417ED-C852-47A4-A886-A9B8750DA9C3}|DrivingSchool\\DrivingSchool.csproj|solutionrelative:drivingschool\\models\\lessonwithevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F417ED-C852-47A4-A886-A9B8750DA9C3}|DrivingSchool\\DrivingSchool.csproj|c:\\users\\oleksandr\\source\\repos\\drivingschool\\drivingschool\\models\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F417ED-C852-47A4-A886-A9B8750DA9C3}|DrivingSchool\\DrivingSchool.csproj|solutionrelative:drivingschool\\models\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F417ED-C852-47A4-A886-A9B8750DA9C3}|DrivingSchool\\DrivingSchool.csproj|c:\\users\\oleksandr\\source\\repos\\drivingschool\\drivingschool\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F417ED-C852-47A4-A886-A9B8750DA9C3}|DrivingSchool\\DrivingSchool.csproj|solutionrelative:drivingschool\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F417ED-C852-47A4-A886-A9B8750DA9C3}|DrivingSchool\\DrivingSchool.csproj|c:\\users\\oleksandr\\source\\repos\\drivingschool\\drivingschool\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F417ED-C852-47A4-A886-A9B8750DA9C3}|DrivingSchool\\DrivingSchool.csproj|solutionrelative:drivingschool\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F417ED-C852-47A4-A886-A9B8750DA9C3}|DrivingSchool\\DrivingSchool.csproj|c:\\users\\oleksandr\\source\\repos\\drivingschool\\drivingschool\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F417ED-C852-47A4-A886-A9B8750DA9C3}|DrivingSchool\\DrivingSchool.csproj|solutionrelative:drivingschool\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdvancedInstructor.cs",
+              "DocumentMoniker": "C:\\Users\\Oleksandr\\source\\repos\\DrivingSchool\\DrivingSchool\\Models\\AdvancedInstructor.cs",
+              "RelativeDocumentMoniker": "DrivingSchool\\Models\\AdvancedInstructor.cs",
+              "ToolTip": "C:\\Users\\Oleksandr\\source\\repos\\DrivingSchool\\DrivingSchool\\Models\\AdvancedInstructor.cs",
+              "RelativeToolTip": "DrivingSchool\\Models\\AdvancedInstructor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T23:18:03.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Oleksandr\\source\\repos\\DrivingSchool\\DrivingSchool\\Services\\Repository.cs",
+              "RelativeDocumentMoniker": "DrivingSchool\\Services\\Repository.cs",
+              "ToolTip": "C:\\Users\\Oleksandr\\source\\repos\\DrivingSchool\\DrivingSchool\\Services\\Repository.cs",
+              "RelativeToolTip": "DrivingSchool\\Services\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T23:14:42.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDriveable.cs",
+              "DocumentMoniker": "C:\\Users\\Oleksandr\\source\\repos\\DrivingSchool\\DrivingSchool\\Interfaces\\IDriveable.cs",
+              "RelativeDocumentMoniker": "DrivingSchool\\Interfaces\\IDriveable.cs",
+              "ToolTip": "C:\\Users\\Oleksandr\\source\\repos\\DrivingSchool\\DrivingSchool\\Interfaces\\IDriveable.cs",
+              "RelativeToolTip": "DrivingSchool\\Interfaces\\IDriveable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T23:14:28.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPerson.cs",
+              "DocumentMoniker": "C:\\Users\\Oleksandr\\source\\repos\\DrivingSchool\\DrivingSchool\\Interfaces\\IPerson.cs",
+              "RelativeDocumentMoniker": "DrivingSchool\\Interfaces\\IPerson.cs",
+              "ToolTip": "C:\\Users\\Oleksandr\\source\\repos\\DrivingSchool\\DrivingSchool\\Interfaces\\IPerson.cs",
+              "RelativeToolTip": "DrivingSchool\\Interfaces\\IPerson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T23:14:18.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LessonWithEvent.cs",
+              "DocumentMoniker": "C:\\Users\\Oleksandr\\source\\repos\\DrivingSchool\\DrivingSchool\\Models\\LessonWithEvent.cs",
+              "RelativeDocumentMoniker": "DrivingSchool\\Models\\LessonWithEvent.cs",
+              "ToolTip": "C:\\Users\\Oleksandr\\source\\repos\\DrivingSchool\\DrivingSchool\\Models\\LessonWithEvent.cs",
+              "RelativeToolTip": "DrivingSchool\\Models\\LessonWithEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T23:13:32.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Lesson.cs",
+              "DocumentMoniker": "C:\\Users\\Oleksandr\\source\\repos\\DrivingSchool\\DrivingSchool\\Models\\Lesson.cs",
+              "RelativeDocumentMoniker": "DrivingSchool\\Models\\Lesson.cs",
+              "ToolTip": "C:\\Users\\Oleksandr\\source\\repos\\DrivingSchool\\DrivingSchool\\Models\\Lesson.cs",
+              "RelativeToolTip": "DrivingSchool\\Models\\Lesson.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T23:13:18.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Oleksandr\\source\\repos\\DrivingSchool\\DrivingSchool\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "DrivingSchool\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\Oleksandr\\source\\repos\\DrivingSchool\\DrivingSchool\\Models\\Car.cs",
+              "RelativeToolTip": "DrivingSchool\\Models\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T23:13:06.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "C:\\Users\\Oleksandr\\source\\repos\\DrivingSchool\\DrivingSchool\\Models\\Instructor.cs",
+              "RelativeDocumentMoniker": "DrivingSchool\\Models\\Instructor.cs",
+              "ToolTip": "C:\\Users\\Oleksandr\\source\\repos\\DrivingSchool\\DrivingSchool\\Models\\Instructor.cs",
+              "RelativeToolTip": "DrivingSchool\\Models\\Instructor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T23:12:58.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Oleksandr\\source\\repos\\DrivingSchool\\DrivingSchool\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "DrivingSchool\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Oleksandr\\source\\repos\\DrivingSchool\\DrivingSchool\\Models\\Student.cs",
+              "RelativeToolTip": "DrivingSchool\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T23:12:46.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Oleksandr\\source\\repos\\DrivingSchool\\DrivingSchool\\Program.cs",
+              "RelativeDocumentMoniker": "DrivingSchool\\Program.cs",
+              "ToolTip": "C:\\Users\\Oleksandr\\source\\repos\\DrivingSchool\\DrivingSchool\\Program.cs",
+              "RelativeToolTip": "DrivingSchool\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAWwBUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T23:09:46.346Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

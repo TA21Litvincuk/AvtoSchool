@@ -1,0 +1,14 @@
+C:\Users\Oleksandr\source\repos\DrivingSchool\DrivingSchool\obj\Debug\net8.0\DrivingSchool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oleksandr\source\repos\DrivingSchool\DrivingSchool\obj\Debug\net8.0\DrivingSchool.AssemblyInfoInputs.cache
+C:\Users\Oleksandr\source\repos\DrivingSchool\DrivingSchool\obj\Debug\net8.0\DrivingSchool.AssemblyInfo.cs
+C:\Users\Oleksandr\source\repos\DrivingSchool\DrivingSchool\obj\Debug\net8.0\DrivingSchool.csproj.CoreCompileInputs.cache
+C:\Users\Oleksandr\source\repos\DrivingSchool\DrivingSchool\bin\Debug\net8.0\DrivingSchool.exe
+C:\Users\Oleksandr\source\repos\DrivingSchool\DrivingSchool\bin\Debug\net8.0\DrivingSchool.deps.json
+C:\Users\Oleksandr\source\repos\DrivingSchool\DrivingSchool\bin\Debug\net8.0\DrivingSchool.runtimeconfig.json
+C:\Users\Oleksandr\source\repos\DrivingSchool\DrivingSchool\bin\Debug\net8.0\DrivingSchool.dll
+C:\Users\Oleksandr\source\repos\DrivingSchool\DrivingSchool\bin\Debug\net8.0\DrivingSchool.pdb
+C:\Users\Oleksandr\source\repos\DrivingSchool\DrivingSchool\obj\Debug\net8.0\DrivingSchool.dll
+C:\Users\Oleksandr\source\repos\DrivingSchool\DrivingSchool\obj\Debug\net8.0\refint\DrivingSchool.dll
+C:\Users\Oleksandr\source\repos\DrivingSchool\DrivingSchool\obj\Debug\net8.0\DrivingSchool.pdb
+C:\Users\Oleksandr\source\repos\DrivingSchool\DrivingSchool\obj\Debug\net8.0\DrivingSchool.genruntimeconfig.cache
+C:\Users\Oleksandr\source\repos\DrivingSchool\DrivingSchool\obj\Debug\net8.0\ref\DrivingSchool.dll
